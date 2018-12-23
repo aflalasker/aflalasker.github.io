@@ -21,9 +21,12 @@ body, html {
 }
 
 .profile-img {
-    max-height: 360px;
-    border-radius: 50%;
     margin-bottom: 2.5rem;
+}
+
+.my-image {
+     max-height: 360px;
+    border-radius: 50%;
 }
 
 .my-name, .title {
